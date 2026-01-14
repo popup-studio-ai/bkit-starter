@@ -1,0 +1,20 @@
+{
+  "name": "bkit-starter",
+  "version": "1.0.0",
+  "description": "Claude Code 초보자를 위한 한글 학습 가이드 및 설정 템플릿",
+  "author": {
+    "name": "POPUP STUDIO PTE. LTD.",
+    "email": "contact@popupstudio.ai",
+    "url": "https://popupstudio.ai"
+  },
+  "repository": "https://github.com/popup-studio-ai/bkit-starter",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "beginner",
+    "korean",
+    "tutorial",
+    "starter-kit",
+    "learning"
+  ]
+}
