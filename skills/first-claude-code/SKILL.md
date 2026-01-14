@@ -1,7 +1,7 @@
 ---
 name: first-claude-code
 description: 첫 번째 프로젝트 만들기
-user_invocable: true
+user-invocable: true
 ---
 
 # 첫 번째 프로젝트 만들기

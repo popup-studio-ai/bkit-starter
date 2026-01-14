@@ -1,7 +1,7 @@
 ---
 name: learn-claude-code
 description: Claude Code 학습 가이드
-user_invocable: true
+user-invocable: true
 ---
 
 # Claude Code 학습 가이드

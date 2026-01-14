@@ -1,7 +1,7 @@
 ---
 name: setup-claude-code
 description: Claude Code 프로젝트 설정 생성
-user_invocable: true
+user-invocable: true
 ---
 
 # Claude Code 프로젝트 설정 생성
