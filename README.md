@@ -64,22 +64,15 @@ Claude Code는 AI가 직접 코드를 작성하고 실행하는 도구입니다.
 
 ## 설치
 
-### 방법 1: 플러그인 설치 (권장)
-
 ```bash
-# 마켓플레이스 추가
+# 1. 마켓플레이스 추가
 /plugin marketplace add popup-studio-ai/bkit-claude-code
 
-# 플러그인 설치
+# 2. 플러그인 설치
 /plugin install bkit-starter
 ```
 
-### 방법 2: 직접 복사
-
-```bash
-git clone https://github.com/popup-studio-ai/bkit-starter.git
-cp -r bkit-starter/.claude /path/to/your-project/
-```
+> 처음이신가요? [상세 설치 가이드](INSTALL.md)를 참고하세요.
 
 ---
 
