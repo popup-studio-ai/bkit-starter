@@ -1,7 +1,7 @@
 ---
 name: upgrade-claude-code
 description: Claude Code 설정 업그레이드
-user_invocable: true
+user-invocable: true
 ---
 
 # Claude Code 설정 업그레이드

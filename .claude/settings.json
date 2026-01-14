@@ -22,21 +22,10 @@
       "WebFetch(domain:docs.anthropic.com)",
       "WebFetch(domain:code.claude.com)",
       "WebFetch(domain:github.com)",
-      "Skill(learn-claude-code)"
-    ]
-  },
-  "hooks": {
-    "SessionStart": [
-      {
-        "once": true,
-        "hooks": [
-          {
-            "type": "command",
-            "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/session-start.sh",
-            "timeout": 5000
-          }
-        ]
-      }
+      "Skill(learn-claude-code)",
+      "Skill(first-claude-code)",
+      "Skill(setup-claude-code)",
+      "Skill(upgrade-claude-code)"
     ]
   }
 }
