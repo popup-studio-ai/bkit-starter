@@ -21,11 +21,7 @@
       "WebSearch",
       "WebFetch(domain:docs.anthropic.com)",
       "WebFetch(domain:code.claude.com)",
-      "WebFetch(domain:github.com)",
-      "Skill(learn-claude-code)",
-      "Skill(first-claude-code)",
-      "Skill(setup-claude-code)",
-      "Skill(upgrade-claude-code)"
+      "WebFetch(domain:github.com)"
     ]
   }
 }
